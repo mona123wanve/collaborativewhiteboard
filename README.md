@@ -1,1 +1,1 @@
-# collaborativewhiteboard
+# openboard
